@@ -7,7 +7,7 @@ Save images and videos in ACESCg or ACES-2065-1
 
 ```
 
-cd ~/ComfyUI/ustom_nodes
+cd ~/ComfyUI/custom_nodes
 git clone git@github.com:borisfaley/ComfyUI-ACES-EXR-OCIO.git
 conda install -c conda-forge openimageio -y
 conda install -c conda-forge numpy pillow -y
