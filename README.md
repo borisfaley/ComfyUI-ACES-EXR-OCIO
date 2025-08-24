@@ -1,7 +1,7 @@
 # ComfyUI-ACES-EXR-OCIO
 Save images and videos in ACESCg or ACES-2065-1
 
-Активируете ваш окружение venv или Conda
+Активируете ваше окружение venv или Conda
 
 ## Установка
 
