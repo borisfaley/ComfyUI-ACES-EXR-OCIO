@@ -19,6 +19,7 @@ conda install -c conda-forge numpy pillow -y
 pip install OpenImageIO
 ```
 ## Проверка 
+```
 python -c "import OpenImageIO as oiio; print('✅ OpenImageIO версия:', oiio.VERSION)"
-
+```
 
